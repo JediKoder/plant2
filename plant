@@ -1,0 +1,359 @@
+<!doctype html>
+<!--[if IE 8]> <html class="no-js ie8 lt-ie9 lt-ie10" lang="en"> <![endif]-->
+<!--[if IE 9 ]> <html class="no-js ie9 lt-ie10" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="http://plantchicago.org/app/themes/plantchicago/dist/images/favicon-32x32.png" />
+  <link rel="alternate" type="application/rss+xml" title="Plant Chicago Feed" href="http://plantchicago.org/feed/">
+  <link href='https://fonts.googleapis.com/css?family=Karla:400,400italic,700' rel='stylesheet' type='text/css'>
+  <title>Home | Plant Chicago</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Plant Chicago is a non-profit organization established in 2014 by Bubbly Dynamics, LLC. Bubbly is also owner and operator of our home, The Plant, a groundbreaking food production space designed to be a net-zero, closed loop system in Chicago’s Back of the Yards"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://plantchicago.org/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home | Plant Chicago" />
+<meta property="og:description" content="Plant Chicago is a non-profit organization established in 2014 by Bubbly Dynamics, LLC. Bubbly is also owner and operator of our home, The Plant, a groundbreaking food production space designed to be a net-zero, closed loop system in Chicago’s Back of the Yards" />
+<meta property="og:url" content="http://plantchicago.org/" />
+<meta property="og:site_name" content="Plant Chicago" />
+<meta property="og:image" content="http://plantchicago.org/app/uploads/2015/11/Image-FPO-01-Greyscale.jpg" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="665" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Plant Chicago is a non-profit organization established in 2014 by Bubbly Dynamics, LLC. Bubbly is also owner and operator of our home, The Plant, a groundbreaking food production space designed to be a net-zero, closed loop system in Chicago’s Back of the Yards" />
+<meta name="twitter:title" content="Home | Plant Chicago" />
+<meta name="twitter:image" content="http://plantchicago.org/app/uploads/2015/11/Image-FPO-01-Greyscale.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/plantchicago.org\/","name":"Plant Chicago","potentialAction":{"@type":"SearchAction","target":"http:\/\/plantchicago.org\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/plantchicago.org\/","sameAs":[],"name":"Plant Chicago","logo":"http:\/\/plantchicago.webfactional.com\/app\/uploads\/2015\/12\/Plant-MainLogo-Green.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='stylesheet' id='sage/css-css'  href='http://plantchicago.org/app/themes/plantchicago/dist/styles/main-546640b55f.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://plantchicago.org/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://plantchicago.org/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<!--[if lt IE 9]><script type='text/javascript' src='http://plantchicago.org/app/themes/plantchicago/dist/scripts/respond-23d96a832d.js'></script>
+<![endif]-->
+<!--[if lt IE 9]><script type='text/javascript' src='http://plantchicago.org/app/themes/plantchicago/dist/scripts/svg4everybody-e9de7a9b09.js'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='http://plantchicago.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://plantchicago.org/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://plantchicago.org/wp/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.5.3" />
+<link rel='shortlink' href='http://plantchicago.org/' />
+<link rel="alternate" type="application/json+oembed" href="http://plantchicago.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fplantchicago.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://plantchicago.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fplantchicago.org%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		  <script>
+          window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+        ga('create','UA-24151152-1','auto');ga('send','pageview')
+  </script>
+      <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+    <meta name="description" content="">
+  <meta property="og:title" content="Home | Plant Chicago" />
+        <meta property="og:image" content="http://plantchicago.org/app/uploads/2015/11/Image-FPO-01-Greyscale.jpg" />
+  </head>
+  <body class="home page page-id-26 page-template-default">
+    <!--[if lt IE 9]>
+      <div class="alert alert-warning">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+
+<header class="site-header" role="banner"  style="background-image:url(http://plantchicago.org/app/uploads/backgrounds/33-Image-FPO-01-Greyscale-a5dcbc.jpg);">
+  <div class="site-grid grid">
+
+    <div class="main-column-left">
+      <h1 class="site-title"><a href="http://plantchicago.org/"><svg class="icon icon-logo"><use xlink:href="#icon-logo"/></svg><span class="sr-only">Plant Chicago</span></a></h1>
+    </div>
+
+    <div class="main-column-right">
+      <nav class="site-nav" role="navigation">
+        <div class="menu-menu-1-container"><ul id="menu-menu-1" class="nav"><li id="menu-item-7" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7"><a href="http://plantchicago.org/who-we-are/">Who We Are</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="http://plantchicago.org/tour/">Tour The Plant</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="http://plantchicago.org/learning/">Hands-On Learning</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://plantchicago.org/farmers-market/">Farmers Market</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="http://plantchicago.org/support/">Support Our Work</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://plantchicago.org/news-events/">News + Events</a></li>
+</ul></div>        <button class="search-toggle"><svg class="icon icon-search"><use xlink:href="#icon-search"></svg></button>
+        <form role="search" method="get" class="search-form form-inline" action="http://plantchicago.org/">
+  <label class="sr-only">Search for:</label>
+  <input type="search" value="" autocomplete="off" name="s" class="search-field form-control" placeholder="Search..." required>
+  <button type="submit" class="search-submit"><span class="sr-only">Search</span><svg class="icon icon-search"><use xlink:href="#icon-search"></svg></button>
+  <div aria-hidden="true" class="close-button x-button"><div class="x"></div></div>
+</form>
+        <svg class="header-pattern">
+          <rect x="0" y="0" width="100%" height="36" fill="url(#footerPattern)">
+        </svg>
+      </nav>
+      <button type="button" class="nav-toggle" aria-label="toggle navigation">
+        <span class="nav-label">Menu</span>
+        <span class="nav-svg">
+          <span class="dots"></span>
+          <svg width="50" height="50" version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+          viewBox="0 524.5 2000 2000.5" enable-background="new 0 524.5 2000 2000.5" xml:space="preserve">
+
+            <path class="x" fill="none" stroke="#000000" stroke-miterlimit="10" d="M1410.5,1235.2H589.3"/>
+
+            <path class="x" fill="none" stroke="#000000" stroke-miterlimit="10" d="M1410.5,1815H589.3"/>
+
+            <path class="yy" fill="none" stroke="#000000" stroke-miterlimit="10" d="M1410.5,1524.7c0,0-821.2,0-821.2,0c-211.3,0-260,98-218.2,217.6
+            l0,0.1c90.1,260.7,337.6,447.9,628.9,447.9c367.4,0,665.2-297.8,665.2-665.2c0-79-13.8-154.8-39.1-225.2"/>
+
+            <path class="yy" fill="none" stroke="#000000" stroke-miterlimit="10" d="M589.3,1524.7c0,0,821.2,0,821.2,0c211.3,0,260-98,218.2-217.6l0-0.1
+            c-90.1-260.7-337.6-447.9-628.9-447.9c-367.4,0-665.2,297.8-665.2,665.2c0,79,13.8,154.8,39.1,225.2"/>
+          </svg>
+        </span>
+      </button>
+
+              <div class="header-text">
+          <h2>Closed Loop,<br />
+Open Source</h2>
+<p>We’re working to make our cities healthier and more efficient by developing and sharing the most innovative methods for sustainable food production, energy conservation and material reuse.</p>
+        </div>
+          </div>
+
+  </div>
+</header>
+    <div class="site-container" role="document">
+      <div class="content grid">
+        <main class="site-main" role="main">
+
+<div class="site-grid grid">
+  <div class="main-gutter main-column-left">
+    <div class="header-gutter-icons">
+      <svg class="icon icon-community"><use xlink:href="#icon-community"></svg>
+      <svg class="icon icon-land"><use xlink:href="#icon-land"></svg>
+      <svg class="icon icon-water"><use xlink:href="#icon-water"></svg>
+    </div>
+    <svg class="icon icon-factory"><use xlink:href="#icon-factory"></svg>
+  </div>
+
+  <div class="main-column-right grid">
+
+    <div class="content-left flex-item one-half">
+      <h2>What We Believe</h2>
+<h3>Waste is an opportunity.</h3>
+<p>The best natural resource is the one that has already been extracted. Our work begins where others’ consumption ends, where energy would be otherwise lost to landfills or abandoned.</p>
+<h3>Innovation is imperative.</h3>
+<p>We can and will cultivate healthier, more sustainable cities by continuously and creatively disrupting old processes.</p>
+<h3>Together, people are strong.</h3>
+<p>Lasting, collaborative partnerships are key to creating environments where individuals, organizations and communities flourish.</p>
+<h3>Results demand action.</h3>
+<p>Action is the most effective stimulus for progress. We promote a hands-on approach to research, development and education.</p>
+<h3>Knowledge is power.</h3>
+<p>Access to information is essential for driving change. At Plant Chicago, we are committed to open-source distribution of knowledge.</p>
+    </div>
+
+    <div class="events-list content-right flex-item one-half">
+      <h2>Upcoming Events</h2>
+
+      <article class="event bigclicky"  data-url="http://plantchicago.org/events/plant-chicago-farmers-market-2/" data-lat="41.8107477" data-lng="-87.6606973" data-title="Plant Chicago Farmers Market" data-desc="Jun 04, 2016 @ 10:00am–2:00pm" data-id="363">
+  <div class="article-content">
+    <time class="article-date" datetime="2016-06-04T10:00:00+00:00">
+      <span class="-inner">
+        <span class="day">Sat</span>
+        <span class="date">06/04/16</span>
+        <span class="time">10:00am</span>
+      </span>
+    </time>
+    <div class="article-content-wrap">
+      <h1 class="article-title"><a href="http://plantchicago.org/events/plant-chicago-farmers-market-2/">Plant Chicago Farmers Market</a></h1>
+      <p class="event-summary">The only farmers market in Chicago where you’ll find small batch coffee, gourmet mushrooms, kombucha, naturally leavened bread and fresh greens being sold in the same space they’re produced.
+
+Visit us and support your local producers every Saturday this summer!</p>
+          </div>
+  </div>
+</article><article class="event bigclicky"  data-url="http://plantchicago.org/events/introduction-to-aquaponics-4/" data-lat="41.8107477" data-lng="-87.6606973" data-title="Introduction to Aquaponics" data-desc="Jul 30, 2016 @ 12:00pm–2:00pm" data-id="376">
+  <div class="article-content">
+    <time class="article-date" datetime="2016-07-30T12:00:00+00:00">
+      <span class="-inner">
+        <span class="day">Sat</span>
+        <span class="date">07/30/16</span>
+        <span class="time">12:00pm</span>
+      </span>
+    </time>
+    <div class="article-content-wrap">
+      <h1 class="article-title"><a href="http://plantchicago.org/events/introduction-to-aquaponics-4/">Introduction to Aquaponics</a></h1>
+      <p class="event-summary">Come learn the basic principles that make aquaponics work, plus an overview of the types of aquaponic systems and the fish and plants you can grow in them.</p>
+          </div>
+  </div>
+</article><article class="event bigclicky"  data-url="http://plantchicago.org/events/closed-loop-food-fest-2016/" data-lat="41.8107477" data-lng="-87.6606973" data-title="Closed Loop Food Fest 2016" data-desc="Aug 06, 2016 @ 1:00pm–6:00pm" data-id="377">
+  <div class="article-content">
+    <time class="article-date" datetime="2016-08-06T13:00:00+00:00">
+      <span class="-inner">
+        <span class="day">Sat</span>
+        <span class="date">08/06/16</span>
+        <span class="time">1:00pm</span>
+      </span>
+    </time>
+    <div class="article-content-wrap">
+      <h1 class="article-title"><a href="http://plantchicago.org/events/closed-loop-food-fest-2016/">Closed Loop Food Fest 2016</a></h1>
+      <p class="event-summary">Join Plant Chicago and your favorite local food vendors, musicians, and closed loop producers for a fun and delicious afternoon at The Plant! </p>
+          </div>
+  </div>
+</article><article class="event bigclicky"  data-url="http://plantchicago.org/events/volunteer-orientation-3/" data-lat="" data-lng="" data-title="Volunteer Orientation" data-desc="Aug 20, 2016 @ 10:00am–11:30am" data-id="365">
+  <div class="article-content">
+    <time class="article-date" datetime="2016-08-20T10:00:00+00:00">
+      <span class="-inner">
+        <span class="day">Sat</span>
+        <span class="date">08/20/16</span>
+        <span class="time">10:00am</span>
+      </span>
+    </time>
+    <div class="article-content-wrap">
+      <h1 class="article-title"><a href="http://plantchicago.org/events/volunteer-orientation-3/">Volunteer Orientation</a></h1>
+      <p class="event-summary">We offer various volunteer opportunities Saturdays from 10 am - 5 pm. This summer, we'll be working on making our soil healthier, rehabilitating our chicken coop and creating a community garden area.
+
+</p>
+          </div>
+  </div>
+</article><a href="news-events" class="btn">See more <span class="arrow -right"></span></a>
+    </div>
+
+  </div>
+
+</div>
+
+<div class="site-grid grid recent-news">
+
+  <div class="main-gutter main-column-left">
+    <svg class="icon icon-city"><use xlink:href="#icon-city"></svg>
+  </div>
+
+  <div class="main-column-right grid">
+    <div class="row">
+      <h2>Recent News</h2>
+
+      <div class="article-list grid">
+        <article class="article ">
+  <div class="article-content">
+        <div class="article-content-wrap">
+      <header class="article-header">
+        <h1 class="article-title"><a href="http://plantchicago.org/2016/07/13/plant-community-featured-wttw/">"The Plant" community featured on WTTW!</a></h1>
+        <div class="article-meta">
+          <time class="article-date" datetime="2016-07-13T03:31:11+00:00">
+            <span class="date">07/13/16</span>
+          </time> | <span class="article-category"><a href="http://plantchicago.org/category/news/">News</a></span>        </div>
+      </header>
+      <div class="article-excerpt">
+        <p>Reporters from WTTW&#8217;s &#8220;Chicago Tonight&#8221; recently took a closer look at some of the exciting&hellip;</p>
+      </div>
+          </div>
+  </div>
+</article><article class="article ">
+  <div class="article-content">
+        <div class="article-content-wrap">
+      <header class="article-header">
+        <h1 class="article-title"><a href="http://plantchicago.org/2016/06/28/369/">Fish feed experiment - spent grain</a></h1>
+        <div class="article-meta">
+          <time class="article-date" datetime="2016-06-28T23:11:08+00:00">
+            <span class="date">06/28/16</span>
+          </time> | <span class="article-category"><a href="http://plantchicago.org/category/learnings/">Learnings</a></span>        </div>
+      </header>
+      <div class="article-excerpt">
+        <p>Our aquaponic farm has many mouths to feed, and fish food can be a substantial&hellip;</p>
+      </div>
+          </div>
+  </div>
+</article><article class="article ">
+  <div class="article-content">
+        <div class="article-content-wrap">
+      <header class="article-header">
+        <h1 class="article-title"><a href="http://plantchicago.org/2016/06/09/education_internship/">Spring Education & Outreach Internship</a></h1>
+        <div class="article-meta">
+          <time class="article-date" datetime="2016-06-09T18:34:59+00:00">
+            <span class="date">06/09/16</span>
+          </time> | <span class="article-category"><a href="http://plantchicago.org/category/inspiration/">Inspiration</a></span>        </div>
+      </header>
+      <div class="article-excerpt">
+        <p>By Eva Baldinger The three months I spent interning with Plant Chicago were filled with numerous and&hellip;</p>
+      </div>
+          </div>
+  </div>
+</article><article class="article ">
+  <div class="article-content">
+        <div class="article-content-wrap">
+      <header class="article-header">
+        <h1 class="article-title"><a href="http://plantchicago.org/2016/05/12/farm-tech-intern-projects/">Farm Tech Intern Projects</a></h1>
+        <div class="article-meta">
+          <time class="article-date" datetime="2016-05-12T16:31:05+00:00">
+            <span class="date">05/12/16</span>
+          </time> | <span class="article-category"><a href="http://plantchicago.org/category/learnings/">Learnings</a></span>        </div>
+      </header>
+      <div class="article-excerpt">
+        <p>Can plants grow in a saltwater aquaponic system? Project Lead: Katie Ponsot For this experiment,&hellip;</p>
+      </div>
+          </div>
+  </div>
+</article>      </div>
+
+    </div>
+  </div>
+
+</div>
+
+
+
+        </main>
+      </div><!-- /.content -->
+    </div><!-- /.wrap -->
+
+<footer class="site-footer" role="contentinfo">
+  <div class="site-grid grid">
+
+    <div class="main-gutter main-column-left">
+      <a href="http://plantchicago.org/" class="footer-logo"><svg class="icon icon-logo"><use xlink:href="#icon-logo"></svg><span class="sr-only">Plant Chicago</span></a>
+          </div>
+
+    <div class="main-column-right">
+
+      <div class="grid">
+
+        <div class="content-left flex-item one-half">
+          <div class="social">
+            <h3>Connect with us</h3>
+            <ul>
+              <li><a href="https://www.facebook.com/plantchicagonotforprofit"><span class="sr-only">Facebook</span><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></svg></a></li>
+              <li><a href="https://www.instagram.com/plantchicago"><span class="sr-only">Instagram</span><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></svg></a></li>
+              <li><a href="https://www.twitter.com/plantchicago"><span class="sr-only">Twitter</span><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></svg></a></li>
+            </ul>
+          </div>
+          <div class="newsletter">
+            <h3>Subscribe to our newsletter</h3>
+            <form class="newsletter-form" action="http://plantchicago.createsend.com/t/r/s/ajdjky/" method="post">
+  <label for="fieldEmail" class="sr-only">Email</label>
+  <input id="fieldEmail" name="cm-ajdjky-ajdjky" type="email" placeholder="Your email address" required>
+  <button type="submit">Go <span class="arrow"></span></button>
+</form>          </div>
+        </div>
+
+        <div class="content-right flex-item one-half">
+          <div class="visit">
+            <h3>Visit us at The Plant</h3>
+            <address class="vcard">
+              <a target="_blank" href="https://goo.gl/maps/RRoM9Dco5BC2">1400 W 46th St, Chicago, IL 60609</a>
+            </address>
+            <a href="tel:7738475523">773.847.5523</a> +
+            <a href="mailto:info@plantchicago.org">info@plantchicago.org</a>
+          </div>
+          <div class="copyright">
+            <p>Copyright Plant Chicago 2016<br> <em>Plant Chicago is a registered 501(c)3 organization</em></p>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+  <svg class="footer-pattern">
+    <rect x="0" y="0" width="100%" height="36" fill="url(#footerPattern)">
+  </svg>
+</footer>
+<script type='text/javascript' src='http://plantchicago.org/app/themes/plantchicago/dist/scripts/main-c4a4c467fd.js'></script>
+<script type='text/javascript' src='http://plantchicago.org/wp/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+  </body>
+</html>
